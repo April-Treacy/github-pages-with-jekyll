@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. You've come to the place where I talk about mommy stuff ...
